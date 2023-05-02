@@ -1,0 +1,74 @@
+body{
+    background-color: #86ac41;
+}
+img{
+    position: absolute;
+width: 318px;
+height: 288px;
+left: 515px;
+top: 200px;
+background: url(estudios.jpg);
+border-radius: 138.5px;
+}
+nav{
+    width: 100%;
+    background-color: #b3c100;
+    list-style-type: none;
+    text-align: center;
+    margin: 0%;
+    padding: 5px;
+}
+nav ul li{
+    display: inline-block;
+    font-size: 20px;
+    padding: 20px;
+    height: 10px;
+}
+
+.info{
+    width: 90%;
+    height: auto;
+    background-color: #324851;
+    margin: 35% auto;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+.info .tituloseccion{
+    color: #0f0f0e;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: xx-large;
+    font-size: 40px;
+    text-align: center;
+    font-weight: bolder;
+    border-bottom: 2px #110d09 solid;
+}
+
+.info .titulodatos{
+    color: #fff8f0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bolder;
+    font-size: large;
+    font-size: 30px;
+    display: inline;
+    font-family: arial;
+    text-align: center;
+}
+
+.info .datosdatos{
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: normal;
+    font-family: arial 30px;
+    font-size: large;
+    display: inline;
+}
+
+footer{
+    width: 100%;
+    background-color: #324851; 
+    list-style-type: none;
+    text-align: center;
+    margin: 0;
+    padding: 5px;
+}
